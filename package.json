@@ -1,5 +1,5 @@
 {
-  "name": "jquery.render",
+  "name": "@tschallacka/jquery.render",
   "version": "1.0.0",
   "description": "A jQuery plugin to extend it with a render method for easy method binding.",
   "main": "jquery.render.js",
